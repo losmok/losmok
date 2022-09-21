@@ -1,5 +1,7 @@
-### Hi there 👋   🌱 I’m currently learning how to edit my readme bio 
-Siema Eniu👩‍🌾
+### Hi there 😊
+    📫 How to reach me: gmail
+    🌱 I’m currently learning html/css
+
 
 
 <!--
