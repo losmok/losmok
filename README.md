@@ -1,4 +1,4 @@
-### Hi there 😊
+### Hi there 😊 Im am: Paweł🌭
     📫 How to reach me: gmail
     🌱 I’m currently learning html/css
 
