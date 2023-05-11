@@ -1,6 +1,6 @@
 ### Hi there 😊 Im am: Paweł🌭
     📫 How to reach me: gmail
-    🌱 I’m currently learning html/css
+    🌱 I’m currently learning html/css/python/JavaScript/PHP
 
 
 
